@@ -36,7 +36,7 @@ After the jack and wire switch assembly is installed, cut a small piece of IC pa
 
 Now cut two more foam pieces about 18 mm wide and tape them to  either side of the bottom case shell as shown in the photo below. These foam pieces act as a spring to return the pedal to the open (or off) position. Naturally, a spring can be ussed instead of the foam pieces, but I didn't have a suitable spring at home and the foam seems to work just fine.
 
-![Image of Zynthian sustain pedal](https://github.com/zynthian/zynthian-pedals/blob/master/sustain-pedal/pedal_2.jpg)
+![Image of Zynthian sustain pedal](https://github.com/zynthian/zynthian-pedals/blob/master/sustain-pedal/pedal_3.jpg)
 
 Finally, place the case top onto the bottom case shell assembly and install the two hinge screws, one on either side of the case. Note that the holes in the bottom case shell are clearance holes which act as hinge points as well as holding the case shells together, whereas the holes in the top case shell are not. The screws should easilly tap into the top case shell, but don't over-tighten as these holes are easy to strip. If the case is cut from 3 mm acrylic, these holes may require to be tapped.
 
