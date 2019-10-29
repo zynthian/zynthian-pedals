@@ -34,7 +34,7 @@ Glue the case pieces together to make the top and bottom case shells. Temporaril
 
 After the jack and wire switch assembly is installed, cut a small piece of IC packaging foam and attach it under the wire coming from the S (sleeve) terminal with double-sided tape. Ideally, this wire should be roughly flush with the top edge of the bottom case shell. The wire from the T terminal should be bent up slightly so that it does not touch the S wire until the pedal is depressed. On release of the pedal, this wire should spring back into the open position on its own.
 
-Now cut two more foam pieces about 18 mm wide and tape them to  either side of the bottom case shell as shown in the photo below. These foam pieces act as a spring to return the pedal to the open (or off) position. Naturally, a spring can be ussed instead of the foam pieces, but I didn't have a suitable spring at home and the foam seems to work just fine.
+Now cut two more foam pieces about 18 mm high and tape them to  either side of the bottom case shell as shown in the photo below. These foam pieces act as a spring to return the pedal to the open (or off) position. Naturally, a spring can be ussed instead of the foam pieces, but I didn't have a suitable spring at home and the foam seems to work just fine.
 
 ![Image of Zynthian sustain pedal](https://github.com/zynthian/zynthian-pedals/blob/master/sustain-pedal/pedal_3.jpg)
 
