@@ -28,7 +28,7 @@ The pedals in the photos were made using [LaserWeb4](https://github.com/LaserWeb
 
 ## Assembly
 
-Glue the case pieces together to make the top and bottom case shells. Temporarilly install the phono jack into the bottom shell. Cut and bend the two copper mains wires to shape as shown in photo below. Then remove the jack and solder mains wires to phono jack terminals. Once the wires have been soldered onto the jack, install the jack and wire switch assembly into the case. Note: for universal function, the R (ring) S (sleeve) terminals could be soldered together to allow use of both TS and TRS patch cables. 
+Glue the case pieces together to make the top and bottom case shells. Temporarily install the phono jack into the bottom shell. Cut and bend the two copper mains wires to shape as shown in photo below. Then remove the jack and solder mains wires to phono jack terminals. Once the wires have been soldered onto the jack, install the jack and wire switch assembly into the case. Note: for universal function, the R (ring) S (sleeve) terminals could be soldered together to allow use of both TS and TRS patch cables. 
 
 ![Image of Zynthian sustain pedal](https://github.com/zynthian/zynthian-pedals/blob/master/sustain-pedal/pedal_2.jpg)
 
