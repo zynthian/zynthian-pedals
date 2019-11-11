@@ -22,8 +22,8 @@ The switchbox in the photos was made using [LaserWeb4](https://github.com/LaserW
 
 1. laser cut case pieces cut from the file above,
 2. female 1/4" TRS phono jack (x 1) (I used [this one](https://www.aliexpress.com/item/32996271607.html?spm=a2g0s.9042311.0.0.74944c4dJB1w8D)),
-3. 5 pin DIN connector - female (x1) (I used [this one](https://www.aliexpress.com/item/32996271607.html?spm=a2g0s.9042311.0.0.74944c4dJB1w8D)),
-4. Momentary footswitch (x3) (I used [these](https://www.aliexpress.com/item/32996271607.html?spm=a2g0s.9042311.0.0.74944c4dJB1w8D)), and
+3. 5 pin DIN connector - female (x1) (I used [this one](https://www.aliexpress.com/item/32907040424.html?spm=a2g0s.9042311.0.0.27424c4d9V0qom)),
+4. Momentary footswitch (x3) (I used [these](https://www.aliexpress.com/item/32885860936.html?spm=a2g0s.9042311.0.0.64fc4c4dhkzR6n)), and
 5. glue, wire and solder to assemble the pieces.
 
 ## Assembly
