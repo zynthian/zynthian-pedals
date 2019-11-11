@@ -28,7 +28,7 @@ The switchbox in the photos was made using [LaserWeb4](https://github.com/LaserW
 
 ## Assembly
 
-Glue the case pieces together to make the bottom case shell. Temporarilly install the DIN connector and phono jack into the bottom shell and the footswitches into the top panel. Measure and cut wires and solder into place as shown in the colour coded schematic and photo of the internals below. Cut and bend the two copper mains wires to shape as shown in photo below. Then remove the components, solder together and reinstall. 
+Glue the case pieces together to make the bottom case shell. Temporarilly install the DIN connector and phono jack into the bottom shell and the footswitches into the top panel. Measure and cut wires to be soldered into place as shown in the colour coded schematic and photo of the internals below. Then remove the components, solder together and reinstall. 
 
 ![Image of Zynthian switch box internals](https://github.com/zynthian/zynthian-pedals/blob/master/SwitchBox/Schematic.svg)
 
